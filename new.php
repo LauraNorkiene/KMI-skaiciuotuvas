@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KMI skaiciuokle</title>
 </head>
+<?php ?>
 
 <body>
 
